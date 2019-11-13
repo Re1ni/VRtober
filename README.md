@@ -1,8 +1,8 @@
 # VRtober
 
-# Projekt Status
+#Projekt Status
 
-### Datum: 06.11.19
+## Datum: 06.11.19
 ### Oculus Assets sind im unity Projekt geladen
 ### Projekt muss noch auf der Oculus GO getestet werden
 ### Es fehlen wichtige SDK die noch geladen werden müssen
@@ -20,6 +20,11 @@
 ### CPU: Intel Core i7 4x 2,6GHz 
 ### System: Windows 10 64bit
 
+# Development
+
+### Developing on Unity 2019.1.14f1
+### Developing for Oculus GO using Android
+
 # status Update 06.11.19 um 22:31
 
 ### Oculus GO is all setup and ready to develop
@@ -27,3 +32,9 @@
 # How I built for Oculus GO
 
 #### https://medium.com/inborn-experience/how-to-build-an-app-for-the-oculus-go-from-start-to-finish-with-unity-cb72d931ddae
+
+
+## status Update 13.11.19 um 22:31
+
+## Problems
+### Entwicklermodus immer einschalten um die Go mit adb devices zu verbinden und die apk auf die Oculus zu laden
